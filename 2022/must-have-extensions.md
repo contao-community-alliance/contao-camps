@@ -1,0 +1,26 @@
+# "Must-have" Extensions
+
+Zusammengetragen auf dem Camp 2022:
+
+* [Sticky Footer](https://extensions.contao.org/?q=Sticky%20Footer)
+* [OM-Backend](https://extensions.contao.org/?q=OM-Backend) (hat auch Sticky-Footer)
+* [Merger²](https://extensions.contao.org/?q=merger2)
+* [Seiteninformation im Seitenbaum](https://extensions.contao.org/?q=Seiteninformation%20im%20Seitenbaum)
+* [Standardwerte für Select/Checkbox/Radioboxen](https://extensions.contao.org/?q=Standardwerte)
+* [Newsletter-Anmeldung in einem Formular](https://extensions.contao.org/?q=Newsletter-Anmeldung)
+* [Changelanguage](https://extensions.contao.org/?q=Sprachenwechsler), [Language-Relations](https://extensions.contao.org/?q=Language-Relations)
+* [Nodes](https://extensions.contao.org/?q=Inhalts-Fragmente), [Contao-Content](https://extensions.contao.org/?q=hoff%20Contao-Content)
+* [Social-Tags](https://extensions.contao.org/?q=hoff%20Social-Tags)
+* [Social-Feed](https://extensions.contao.org/?q=Social-Feed)
+* [Include-Info](https://extensions.contao.org/?q=Include-Info)
+* [True-URL](https://extensions.contao.org/?q=True-URL)
+* [Tiny-Images](https://extensions.contao.org/?q=JPG,%20PNG%20und%20WebP%20Komprimierung)
+* [Content-Navigation](https://extensions.contao.org/?q=Content-Navigation)
+* [Notification-Center](https://extensions.contao.org/?q=Notification-Center)
+* [Calenderfield](https://extensions.contao.org/?q=Calenderfield)
+* [Contao Resource Insert-Tag](https://extensions.contao.org/?q=Contao%20Resource%20Insert-Tag)
+* [Contao News Popup](https://extensions.contao.org/?q=Contao%20News%20Popup)
+* [Contao Glossary Bundle](https://extensions.contao.org/?q=Contao%20Glossary%20Bundle)
+* [Contao Backend Field Dependency](https://extensions.contao.org/?q=DCA-Feld%20Bedingungen), [CCA MetaPalettes](https://github.com/contao-community-alliance/meta-palettes)
+* [RST-Custom-Elements](https://extensions.contao.org/?q=RockSolid%20Custom%20Elements)
+* [FE-Helper](https://extensions.contao.org/?q=RockSolid%20Frontend%20Helper) 
