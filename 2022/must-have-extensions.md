@@ -24,4 +24,4 @@ Zusammengetragen auf dem Camp 2022:
 * [Contao Backend Field Dependency](https://extensions.contao.org/?q=DCA-Feld%20Bedingungen), [CCA MetaPalettes](https://github.com/contao-community-alliance/meta-palettes)
 * [RST-Custom-Elements](https://extensions.contao.org/?q=RockSolid%20Custom%20Elements)
 * [FE-Helper](https://extensions.contao.org/?q=RockSolid%20Frontend%20Helper)
-* [Jobs Basic - Stellenangebote für Website](https://extensions.contao.org/?q=Jobs%20Basic%20Bundle) 
+* [Jobs - Stellenangebote auf Websites](https://extensions.contao.org/?q=Jobs%20Basic%20Bundle) 
