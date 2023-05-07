@@ -34,15 +34,15 @@
   wiederherstellen zu können (Kim) https://github.com/contao/contao/issues/6019
 * Wenn ein Bild unter gleichem Namen neu hochgeladen wird, wird es automatisch ersetzt: Wünschenswert wäre es, wenn man
   das vorher explizit bestätigen muss. (Kim) https://github.com/contao/contao/issues/6017
-* Breadcrumb für Inhaltselemente: Elternelement anzeigen
+* Breadcrumb für Inhaltselemente: Elternelement anzeigen (Ingolf, Kim) https://github.com/contao/contao/issues/6027
 * Bildgrößen direkt im Inhaltselement anlegen (Kim) https://github.com/contao/contao/issues/6020
 * Alle verwendeten Bilder mit Lizenz ausgeben (Sitemap für verwendete Bilder) - Image Copyright von Tastaturberuf (s.o.)
   kann eine Liste mit Bildern mit Lizenz + Lizenzlink auszugeben, per Checkbox können einzelne Bilder von der Ausgabe
   ausgeschlossen werden (Ingolf)
-* In Backend und Frontend gleichzeitig einloggen (Im Frontend ausloggen loggt auch den Backend User aus) (Kim)
+* In Backend und Frontend gleichzeitig einloggen (Im Frontend ausloggen loggt auch den Backend User aus) (Kim) https://github.com/contao/contao/issues/6028
 * Weiterlesen-Link individuell benennen können (mit Fallback)
     * Scheint ab 5.x schon möglich zu sein, siehe https://github.com/contao/contao/pull/4742
-* Templatenamen beim Angelegen eines neuen Templates direkt vergeben https://github.com/contao/contao/issues/803
+* Templatenamen beim Anlegen eines neuen Templates direkt vergeben https://github.com/contao/contao/issues/803
 * Einzelne Module über das Berechtigungssystem freigeben https://github.com/contao/contao/issues/6016
 * Es können nicht alle Module, Formulare, Inhaltselemente, ... dauerhaft freigegeben werden. Die Auswahl beschränkt sich
   immer nur auf die aktuell zur Verfügung stehenden Elemente. https://github.com/contao/contao/issues/6018
@@ -57,13 +57,13 @@
 
 * Die zur Verfügung stehende Fläche besser nutzen und z.B. mehrere Inhalte nebeneinander anzeigen können
     * Häufiger Workaround: Mehrere Tabs öffnen; macht hin und wieder Probleme mit der Session
-* Der Button, um Inhaltselemente auszuklappen, ist winzig klein (und die drei Punkte sind nicht selbst erklärend)
-* Alle Inhaltselemente auf einmal aufklappen
-* Alle Kontraste im Backend sind sehr gering
+* Der Button, um Inhaltselemente auszuklappen, ist winzig klein (und die drei Punkte sind nicht selbst erklärend) https://github.com/contao/contao/issues/6024
+* Alle Inhaltselemente auf einmal aufklappen https://github.com/contao/contao/issues/6025
+* Alle Kontraste im Backend sind sehr gering https://github.com/contao/contao/issues/6026
 * Die Usability der Filter ist schlecht
-    * "Filter anwenden" und "Filter zurücksetzen"-Buttons sind zu klein
-    * Angewendete Filter sind schlecht zu erkennen
+    * "Filter anwenden" und "Filter zurücksetzen"-Buttons sind zu klein https://github.com/contao/contao/issues/6023
+    * Angewendete Filter sind schlecht zu erkennen https://github.com/contao/contao/issues/6022
     * Wenn in einem Dropdown ein Wert ausgewählt ist, ist nicht mehr zu sehen, wonach hier gefiltert wurde (es fehlt ein
-      Label für das Dropdown)
+      Label für das Dropdown) https://github.com/contao/contao/issues/6021
 * Sticky Backend Footer
 
