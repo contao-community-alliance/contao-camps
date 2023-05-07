@@ -52,7 +52,8 @@
     * Nach dem Anlegen fragen, ob die Bildgröße direkt freigegeben werden soll (und für welche Gruppe)
     * Gilt auch allgemein für andere Elemente (s.o.)
     * https://github.com/contao/contao/issues/6030
-
+* Wenn man in den Benutzergruppen z.B. Page Mounts setzt und bestimmte Felder freigeben möchtest, muss man sehr viel zu scrollen (https://github.com/contao/contao/issues/6031)
+    * Eine Idee wäre, diesen Bereich umzusortieren: Nicht ein Bereicht für alle Felder, sondern die Felder den einzelnen Bereichen zu ordnen
 
 ## User Interface (Alexander & Maren)
 
