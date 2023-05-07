@@ -51,6 +51,7 @@
 * Wenn eine neue Bildgröße angelegt wird, ist sie standardmäßig nicht freigegeben (Bene)
     * Nach dem Anlegen fragen, ob die Bildgröße direkt freigegeben werden soll (und für welche Gruppe)
     * Gilt auch allgemein für andere Elemente (s.o.)
+    * https://github.com/contao/contao/issues/6030
 
 
 ## User Interface (Alexander & Maren)
