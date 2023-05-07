@@ -23,7 +23,7 @@
     * Templates
     * Layouts [6]
     * Artikel, Seiten [6]
-* Wie ließe sich die Symfony Toolbar sinnvoll mit Contao-Informationen oder -Funktionen ergänzen? (Ingolf)
+* Wie ließe sich die Symfony Toolbar sinnvoll mit Contao-Informationen oder -Funktionen ergänzen? (Ingolf) https://github.com/contao/contao/issues/6029
 * Klickpfade im Backend (Christian & Thorsten)
     * Neues Inhaltselement hinzufügen: Direkt beim Hinzufügen den Elementtyp auswählen, statt erst ein Text-Element
       anlegen und dann den Typ ändern müssen
@@ -36,9 +36,9 @@
   das vorher explizit bestätigen muss. (Kim) https://github.com/contao/contao/issues/6017
 * Breadcrumb für Inhaltselemente: Elternelement anzeigen (Ingolf, Kim) https://github.com/contao/contao/issues/6027
 * Bildgrößen direkt im Inhaltselement anlegen (Kim) https://github.com/contao/contao/issues/6020
-* Alle verwendeten Bilder mit Lizenz ausgeben (Sitemap für verwendete Bilder) - Image Copyright von Tastaturberuf (s.o.)
+* Alle verwendeten Bilder mit Lizenz ausgeben (Sitemap für verwendete Bilder) - Image Copyright von Tastaturberuf [5]
   kann eine Liste mit Bildern mit Lizenz + Lizenzlink auszugeben, per Checkbox können einzelne Bilder von der Ausgabe
-  ausgeschlossen werden (Ingolf)
+  ausgeschlossen werden (Ingolf) - ab 07.06.2023 proaktive Meldung der Verwendung von Bildern an Rechteinhaber!
 * In Backend und Frontend gleichzeitig einloggen (Im Frontend ausloggen loggt auch den Backend User aus) (Kim) https://github.com/contao/contao/issues/6028
 * Weiterlesen-Link individuell benennen können (mit Fallback)
     * Scheint ab 5.x schon möglich zu sein, siehe https://github.com/contao/contao/pull/4742
