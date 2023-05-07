@@ -67,4 +67,6 @@
     * Wenn in einem Dropdown ein Wert ausgewählt ist, ist nicht mehr zu sehen, wonach hier gefiltert wurde (es fehlt ein
       Label für das Dropdown) https://github.com/contao/contao/issues/6021
 * Sticky Backend Footer
+  * Kontroverse Diskussion
+  * es gibt Erweiterungen dafür und man kann es einfach per Backend-CSS anpassen (Hinweis im Handbuch kommt noch)
 
