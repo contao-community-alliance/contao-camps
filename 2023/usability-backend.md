@@ -23,7 +23,8 @@
     * Templates
     * Layouts [6]
     * Artikel, Seiten [6]
-* Wie ließe sich die Symfony Toolbar sinnvoll mit Contao-Informationen oder -Funktionen ergänzen? (Ingolf) https://github.com/contao/contao/issues/6029
+* Wie ließe sich die Symfony Toolbar sinnvoll mit Contao-Informationen oder -Funktionen ergänzen? (
+  Ingolf) https://github.com/contao/contao/issues/6029
 * Klickpfade im Backend (Christian & Thorsten)
     * Neues Inhaltselement hinzufügen: Direkt beim Hinzufügen den Elementtyp auswählen, statt erst ein Text-Element
       anlegen und dann den Typ ändern müssen
@@ -39,7 +40,8 @@
 * Alle verwendeten Bilder mit Lizenz ausgeben (Sitemap für verwendete Bilder) - Image Copyright von Tastaturberuf [5]
   kann eine Liste mit Bildern mit Lizenz + Lizenzlink auszugeben, per Checkbox können einzelne Bilder von der Ausgabe
   ausgeschlossen werden (Ingolf) - ab 07.06.2023 proaktive Meldung der Verwendung von Bildern an Rechteinhaber!
-* In Backend und Frontend gleichzeitig einloggen (Im Frontend ausloggen loggt auch den Backend User aus) (Kim) https://github.com/contao/contao/issues/6028
+* In Backend und Frontend gleichzeitig einloggen (Im Frontend ausloggen loggt auch den Backend User aus) (
+  Kim) https://github.com/contao/contao/issues/6028
 * Weiterlesen-Link individuell benennen können (mit Fallback)
     * Scheint ab 5.x schon möglich zu sein, siehe https://github.com/contao/contao/pull/4742
 * Templatenamen beim Anlegen eines neuen Templates direkt vergeben https://github.com/contao/contao/issues/803
@@ -52,13 +54,17 @@
     * Nach dem Anlegen fragen, ob die Bildgröße direkt freigegeben werden soll (und für welche Gruppe)
     * Gilt auch allgemein für andere Elemente (s.o.)
     * https://github.com/contao/contao/issues/6030
-
+* Wenn man in den Benutzergruppen z.B. Page Mounts setzt und bestimmte Felder freigeben möchtest, muss man
+  sehr viel zu scrollen (https://github.com/contao/contao/issues/6031)
+    * Eine Idee wäre, diesen Bereich umzusortieren: Nicht ein Bericht für alle Felder, sondern die Felder
+      den einzelnen Bereichen zu ordnen
 
 ## User Interface (Alexander & Maren)
 
 * Die zur Verfügung stehende Fläche besser nutzen und z.B. mehrere Inhalte nebeneinander anzeigen können
     * Häufiger Workaround: Mehrere Tabs öffnen; macht hin und wieder Probleme mit der Session
-* Der Button, um Inhaltselemente auszuklappen, ist winzig klein (und die drei Punkte sind nicht selbst erklärend) https://github.com/contao/contao/issues/6024
+* Der Button, um Inhaltselemente auszuklappen, ist winzig klein (und die drei Punkte sind nicht selbst
+  erklärend) https://github.com/contao/contao/issues/6024
 * Alle Inhaltselemente auf einmal aufklappen https://github.com/contao/contao/issues/6025
 * Alle Kontraste im Backend sind sehr gering https://github.com/contao/contao/issues/6026
 * Die Usability der Filter ist schlecht
@@ -67,6 +73,6 @@
     * Wenn in einem Dropdown ein Wert ausgewählt ist, ist nicht mehr zu sehen, wonach hier gefiltert wurde (es fehlt ein
       Label für das Dropdown) https://github.com/contao/contao/issues/6021
 * Sticky Backend Footer
-  * Kontroverse Diskussion
-  * es gibt Erweiterungen dafür und man kann es einfach per Backend-CSS anpassen (Hinweis im Handbuch kommt noch)
+    * Kontroverse Diskussion
+    * es gibt Erweiterungen dafür und man kann es einfach per Backend-CSS anpassen (Hinweis im Handbuch kommt noch)
 
