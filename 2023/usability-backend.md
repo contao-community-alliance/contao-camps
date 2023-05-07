@@ -48,7 +48,7 @@
   immer nur auf die aktuell zur Verfügung stehenden Elemente. https://github.com/contao/contao/issues/6018
 * Mehrere Inhaltselemente bearbeiten: Nur Felder zur Auswahl anbieten, die sich auf die ausgewählten Elemente
   beziehen https://github.com/contao/contao/issues/3814
-* Wenn eine neue Bildgröße angelegt wird, ist sie standardmäßig nicht freigegeben (Bene)
+* Wenn eine neue Bildgröße angelegt wird, ist sie standardmäßig nicht freigegeben https://github.com/contao/contao/issues/6030
     * Nach dem Anlegen fragen, ob die Bildgröße direkt freigegeben werden soll (und für welche Gruppe)
     * Gilt auch allgemein für andere Elemente (s.o.)
 
