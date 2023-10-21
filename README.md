@@ -2,6 +2,7 @@
 
 Zusammenfassung der Contao-Camps
 
+* [2024 - Essen](2024/camp-2024.md)
 * [2023 - Regensburg](2023/camp-2023.md)
 * [2022 - Potsdam](2022/camp-2022.md)
 * 2021 - Camp hat nicht stattgefunden (Corona)
