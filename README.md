@@ -1,6 +1,6 @@
 # Contao Camps
 
-Zusammenfassung der Contao-Camps
+**Zusammenfassung der Contao-Camps**
 
 * [2024 - Essen](2024/camp-2024.md)
 * [2023 - Regensburg](2023/camp-2023.md)
@@ -17,6 +17,8 @@ Zusammenfassung der Contao-Camps
 * [2012 - Essen](2012/camp-2012.md)
 * [2011 - Essen](2011/camp-2011.md)
 * [2010 - Stuttgart (noch als Contao Developer Conference)](2010/camp-2010.md)
+
+**Timeline**
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
