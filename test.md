@@ -8,7 +8,7 @@ graph TD;
     C-->D;
 ```
 
-```
+```mermaid
 journey
     title Me studying for exams
     section Exam is announced
