@@ -17,3 +17,24 @@ Zusammenfassung der Contao-Camps
 * [2012 - Essen](2012/camp-2012.md)
 * [2011 - Essen](2011/camp-2011.md)
 * [2010 - Stuttgart (noch als Contao Developer Conference)](2010/camp-2010.md)
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
+    timeline
+        title Contao-Camps
+        2010 : Stuttgart (DCC) [16]
+        2011 : Essen [60]
+        2012 : Essen [NN]
+        2013 : München [90]
+        2014 : Karlsruhe [100]
+        2015 : nicht stattgefunden
+        2016 : Nürnberg [80]
+        2017 : Jever [62]
+        2018 : Leipzig [100]
+        2019 : München [80]
+        2020 : Ausfall wg. Corona
+        2021 : Ausfall wg. Corona
+        2022 : Potsdam [65]
+        2023 : Regensburg [30]
+        2024 : Essen [50]
+```
