@@ -23,3 +23,13 @@ journey
         I passed the exam with destinction!: 5: Me
         Friend barely gets passing marks: 2: Friend
 ```
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
+    timeline
+        title History of Social Media Platform
+        2002 : LinkedIn
+        2004 : Facebook : Google
+        2005 : Youtube
+        2006 : Twitter
+```
+
