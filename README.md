@@ -26,7 +26,7 @@
         title Contao-Camps
         2010 : Stuttgart (DCC) [16]
         2011 : Essen [60]
-        2012 : Essen [70]
+        2012 : Essen [100]
         2013 : München [90]
         2014 : Karlsruhe [100]
         2015 : nicht stattgefunden
